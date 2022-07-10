@@ -1,0 +1,108 @@
+#newElectionButton {
+    margin-top: 20px;
+}
+
+#newElectionButton > div {
+    width: 100px;
+    cursor: pointer;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+#formData {
+    margin: 20px 20px;
+}
+
+#formData > input:nth-child(2) {
+    width: 100%;
+}
+
+#formData > div {
+    margin-bottom: 30px;
+}
+
+#formData > div > span {
+    float: left;
+}
+
+#formData > div > span:nth-child(2) {
+    margin-left: 30px;
+}
+
+#newElectionForm {
+    width: 40%;
+    margin: 50px auto;
+    display: none;
+}
+
+#newElectionForm > span {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#newElectionForm > span > img {
+    cursor: pointer;
+}
+
+#account {
+    margin-top: 20px
+}
+
+#loader {
+    margin-top: -8px;
+}
+
+#elections {
+    margin-top: 15px;
+}
+
+#electionContainer {
+    width: 80%;
+    margin: 50px auto
+}
+
+#electionContainer > span {
+    position: absolute; 
+    top: 10px; 
+    right: 10px;
+}
+
+#electionContainer > span > img {
+    cursor: pointer;
+}
+html {
+height: 100%;
+}
+body {
+    background-image: linear-gradient(to right, #870000, #190a05);
+}
+.topnav {
+  background-color: rgb(0, 0, 0);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #5f0954;
+  color: white;
+}
