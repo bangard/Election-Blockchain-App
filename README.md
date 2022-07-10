@@ -19,3 +19,12 @@ npm install
 truffle compile && truffle migrate
 ```
 ### Run App
+- dev
+```bash
+  npm run dev
+```
+
+- production
+```bash
+  npm run start
+```
