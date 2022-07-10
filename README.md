@@ -1,8 +1,12 @@
 # Election-Blockchain-App
 Election blockchain app - ethereum solidity web3 integration
 
-### Prerequi
+### Prerequesites
 
+- Run truffle local blockchain environment.
+```bash
+truffle
+```
 
 ### install
 
