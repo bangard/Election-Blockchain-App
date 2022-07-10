@@ -18,3 +18,4 @@ npm install
 ```bash
 truffle compile && truffle migrate
 ```
+### Run App
